@@ -1,4 +1,4 @@
-#compte rendu TP2
+# Compte Rendu TP2
 
 ### Dans ce tp on a simuler le jeu Ludo et on a observer les points suivants:
    * Le jeu suit la loi binomiale de parametre n, p
